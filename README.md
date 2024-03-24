@@ -1,4 +1,4 @@
 # Object-Detection
 
-![Пример изображения](Screenshot.png)
+![Пример изображения](screenshot.png)
 
