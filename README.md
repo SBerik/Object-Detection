@@ -8,8 +8,10 @@
 
 Для начала вам потребуется клонировать репозиторий `efficientnet-pytorch`:
 
-`!apt-get install git
-!git clone https://github.com/narumiruna/efficientnet-pytorch.git`
+```bash
+!apt-get install git
+!git clone https://github.com/narumiruna/efficientnet-pytorch.git
+```
 
 Затем установите `mlconfig` с помощью pip: `!pip install mlconfig`
 
