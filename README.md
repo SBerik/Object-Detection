@@ -13,7 +13,10 @@
 !git clone https://github.com/narumiruna/efficientnet-pytorch.git
 ```
 
-Затем установите `mlconfig` с помощью pip: `!pip install mlconfig`
+Затем установите `mlconfig` с помощью pip: 
+```bash 
+!pip install mlconfig
+```
 
 После установки вам необходимо внести несколько изменений в YAML файл, чтобы настроить параметры модели EfficientNet-PyTorch под ваши нужды.
 
