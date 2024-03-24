@@ -1,3 +1,3 @@
 # Object-Detection
 
-![Пример изображения](ScreenShot.gif)
+![Пример изображения](ScreenShot.jpg)
